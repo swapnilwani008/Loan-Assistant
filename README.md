@@ -9,3 +9,11 @@ In this project, we will build a consumer loan assistant. You input a loan balan
 An analysis of your loan, including total of payments and interest paid is also provided.
 
 
+Demo images : 
+
+<img src = "images/demo2.png" height = 350px width = 600px>
+
+<img src = "images/demo3.png" height = 350px width = 600px>
+
+<img src = "images/demo4.png" height = 350px width = 600px>
+
